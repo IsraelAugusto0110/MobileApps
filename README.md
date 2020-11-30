@@ -15,3 +15,6 @@
     - images/lake.jpg
 - Clique em pub get
 - Clique em Run
+
+- Adicionado interatividade: Botao de favoritos
+- Adicionada imagem da tela do aplicativo funcionando
