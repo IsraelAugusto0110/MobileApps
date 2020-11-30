@@ -16,5 +16,6 @@
 - Clique em pub get
 - Clique em Run
 
+### Features
 - Adicionado interatividade: Botao de favoritos
 - Adicionada imagem da tela do aplicativo funcionando
