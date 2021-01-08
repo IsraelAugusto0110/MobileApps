@@ -4,7 +4,7 @@
  # Flutter
  Flutter é uma ferramenta de desenvolvimento de interface, desemvolvido pela Google, para construir aplicativos para mobile, web e desktop. É open source e compativel com Android e Ios.
 
- ## First_Flutter-App
+ ## Flutter_App_01
  ### instruções
  - No Android Studio com a extensão Flutter instalada, va em File ->  New -> New Flutter project
  - Nomeie o projeto e clique em Next -> Finish
@@ -19,3 +19,9 @@
 ### Features
 - Adicionado interatividade: Botao de favoritos
 - Adicionada imagem da tela do aplicativo funcionando
+
+
+## Flutter_App_02
+
+- Criar um novo projeto Flutter
+- Copiar o arquivo pubspec.yaml e os diretorios lib e assets para a raiz do projeto
