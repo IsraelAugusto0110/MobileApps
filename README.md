@@ -25,3 +25,9 @@
 
 - Criar um novo projeto Flutter
 - Copiar o arquivo pubspec.yaml e os diretorios lib e assets para a raiz do projeto
+
+## Flutter_App_03
+
+- Utiliza autenticação do Firebase Firestore e api online para converter a quantidade de criptomoedas que usuario possui em dolares
+- Criar um novo projeto flutter e substituir o diretorio lib e a pasta pubspec.ymal pelos que se encontram neste repositorio
+- Criar projeto no Firebase e seguir passo a passo para configurar app android, criar authenticação por email/senha e configurar firestore
