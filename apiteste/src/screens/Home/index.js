@@ -26,7 +26,7 @@ export default function LoginEmail({ navigation }) {
         <Text style={Css.textoGoToLogin}>ir para login</Text>
       </TouchableOpacity>
       <View style={Css.menu}>
-        <Menu />
+        <Menu navigation={navigation} />
       </View>
     </KeyboardAvoidingView>
   );
