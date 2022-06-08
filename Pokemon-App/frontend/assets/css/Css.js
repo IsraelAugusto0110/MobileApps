@@ -7,24 +7,24 @@ const css = StyleSheet.create({
     backgroundColor: "#ffff",
     alignItems: "center",
     justifyContent: "flex-start",
-    padding: "25px",
+    padding: 25,
     margin: 5,
   },
   textoHome: {
     fontWeight: "600",
-    fontSize: "25px",
-    alignSelf: "flex-start",
+    fontSize: 25,
+    alignSelf: "center",
     marginBottom: 15,
   },
   logo: {
-    width: "50%",
-    height: "10%",
+    width: 150,
+    height: 100,
     alignContent: "center",
     resizeMode: "contain",
   },
   card: {
-    width: "150px",
-    height: "50px",
+    width: 150,
+    height: 30,
     padding: 5,
     borderRadius: 15,
     flex: 1,
@@ -33,31 +33,33 @@ const css = StyleSheet.create({
   pokemonName: {
     color: "#fff",
     fontWeight: "bold",
-    fontSize: "15px",
+    fontSize: 15,
   },
   textoTipo: {
     color: "#fcfcfc",
     fontWeight: "bold",
-    fontSize: "10px",
+    fontSize: 10,
   },
   textoTipoContainer: {
     borderRadius: 15,
-    padding: 2,
+    padding: 3,
     marginTop: 5,
     alignItems: "center",
+    width: 50
   },
   textoIdPokemon: {
     color: "#fcfcfc",
     fontWeight: "bold",
-    fontSize: "15px",
+    fontSize: 15,
     alignSelf: "flex-end",
-    opacity: "75%",
+    marginRight:5
   },
   pokemon: {
     width: 75,
     height: 75,
     alignSelf: "flex-end",
     resizeMode: "contain",
+    marginLeft: 15
   },
   containerInterno: {
     flexDirection: "row",
@@ -68,13 +70,14 @@ const css = StyleSheet.create({
   },
   container3: {
     flexDirection: "column",
-    width: "40%",
+    width: 40,
   },
   /// Tela Pokemon
   containerTelaPokemon: {
     flexDirection: "row",
-    width: "100%",
-    height: "100%",
+    width: 150,
+    height: 50,
+    alignSelf: 'flex-start'
   },
   pokemonNameGrande: {
     fontSize: 35,
