@@ -15,7 +15,7 @@ export default function Home(props) {
   const bulbasaur = {
     nomePokemon: "Bulbasaur",
     idPokemon: "#001",
-    imgUrl: "bulbasaur.png",
+    imgUrl: require(`../assets/img/pokemons/bulbasaur.png`),
     tipoPokemon: "planta",
     corTipo: colors.tipoPlanta,
     corTipoSecundaria: colors.tipoPlantaSecundario,
@@ -24,7 +24,7 @@ export default function Home(props) {
   const pikachu = {
     nomePokemon: "Pikachu",
     idPokemon: "#004",
-    imgUrl: "pikachu.png",
+    imgUrl: require(`../assets/img/pokemons/pikachu.png`),
     tipoPokemon: "eletrico",
     corTipo: colors.tipoEletrico,
     corTipoSecundaria: colors.tipoEletricoSecundario,
